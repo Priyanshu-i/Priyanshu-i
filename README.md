@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I’m @Priyanshu Singh</h1>
+<h1 align="center"> 👋 Hi, I’m Priyanshu Singh</h1>
 <h3>A passionate Coder</h3>
 
 - 👀 I’m interested in Artificial Intelligence & Machine Learning.
@@ -8,11 +8,11 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: "The term 'artificial intelligence' was coined by John McCarthy in 1956."
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalatmosoft&label=Profile%20views&color=0e75b6&style=flat" alt="kunalatmosoft" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyanshu-i&label=Profile%20views&color=0e75b6&style=flat" alt="Priyanshu-i" /> </p>
 # Welcome to My GitHub Profile
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalatmosoft" alt="kunalatmosoft" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalatmosoft&show_icons=true&locale=en&layout=compact" alt="kunalatmosoft" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-i" alt="Priyanshu-i" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu-i&show_icons=true&locale=en&layout=compact" alt="Priyanshu-i" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-i&show_icons=true&locale=en" alt="Priyanshu-i" /></p>
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.google.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunalatmosoft" height="30" width="40" /></a>
+<a href="www.google.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Priyanshu-i" height="30" width="40" /></a>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="acx" height="30" width="40" /></a>
 </p>
 
